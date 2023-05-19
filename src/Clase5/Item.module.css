@@ -1,0 +1,12 @@
+.item{
+    list-style: none;
+    padding: 16px;
+    border-radius: 16px;
+    border-width: 2px;
+    border-color: black;
+    border-style: dashed;
+}
+
+:global(.compact-theme) .item{
+    padding: 8px;
+}
