@@ -1,0 +1,24 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+
+  .card {
+    
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    padding: 16px;
+    border-radius: 16px;
+    border-width: 2px;
+    border-color: black;
+    border-style: dashed;
+    margin: 3px;
+  }
+
+  .flex {
+    display: flex;
+    flex-wrap: wrap;
+  }

@@ -1,6 +1,6 @@
 import styles from './Lista.module.css';
 
-function List(props) {
+function Lista(props) {
   return (
     <ul className={styles.lista}>
       {props.children}
@@ -8,4 +8,4 @@ function List(props) {
   );
 }
 
-export default List;
+export default Lista;

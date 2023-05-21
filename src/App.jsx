@@ -1,6 +1,7 @@
 //import ghUser from '../fakeApi/ghUser.json'
 import './App.css'
-import Clase5 from './Clase5/Clase5'
+//import Clase5 from './Clase5/Clase5'
+import Clase6 from './Clase6/Clase6'
 //import TestComponent from './Components/TestComponent'
 //import Header from './Components/Header'
 //import Card from './EjerciciosClase/Clase4/Card'
@@ -68,8 +69,8 @@ export default function App() {
       <hr />
       </div> */}
 
-      <Clase5 />
-
+      {/*<Clase5 /> */}
+      <Clase6 />
       </>
     )
   }
