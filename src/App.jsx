@@ -1,12 +1,16 @@
 //import ghUser from '../fakeApi/ghUser.json'
 import './App.css'
+//import Clase7 from './Clase7/Clase7'
+//import Clase9 from './PracticaClase9/Clase9'
+import RepasoExamen from './RepasoExamen/RepasoExamen'
 //import Clase5 from './Clase5/Clase5'
-import Clase6 from './Clase6/Clase6'
+//import Clase6 from './Clase6/Clase6'
 //import TestComponent from './Components/TestComponent'
 //import Header from './Components/Header'
 //import Card from './EjerciciosClase/Clase4/Card'
 //import Title from './Components/Title'
 //import Title from './Components/Title'
+
 
 
 export default function App() {
@@ -70,7 +74,10 @@ export default function App() {
       </div> */}
 
       {/*<Clase5 /> */}
-      <Clase6 />
+      {/*<Clase6 /> */}
+      {/* <Clase7/> */}
+      {/* <Clase9 /> */}
+      <RepasoExamen/>
       </>
     )
   }
